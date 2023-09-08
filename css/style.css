@@ -1,0 +1,27 @@
+.header{
+    background-color: #7f85dfde;
+    /* Color de fondo */
+    color: #7f85dfde;
+    /* Color del texto */
+    padding: 20px 0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    /* Sombra ligera */
+    
+}
+
+.header-content{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header h1{
+    font-size: 28px;
+    margin: 0;
+}
+.column-spacing{
+    padding: 10px;
+}
